@@ -29,6 +29,12 @@
       "day": "May 28th @ 13:00",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Mow the Lawn",
+      "day": "May 29th @ 17:00",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
